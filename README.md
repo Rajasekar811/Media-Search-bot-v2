@@ -13,12 +13,12 @@
 * Ability to restrict groups(AUTH_GROUPS)
 
 
-## If Any Doubts Ask In [Update Channel](https://t.me/ErrorXbotz), [Support Group](https://t.me/ErrorXsupport)
+## If Any Doubts Ask In [Contact](https://t.me/Raja_sekar_811), [Support Group](https://t.me/Royal_moviz)
 
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jinn-Of-Telegram/Media-Search-bot-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajasekar118/Media-Search-bot-v2)
 ### Hard Way
 
 ```bash
@@ -38,7 +38,7 @@ python3 bot.py
 Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) file
 
 
-## Thank You For [Subinps](https://t.me/Subinps_bot)
+## Thank You For [AKKU](https://t.me/Akku811_bot)
 
 ## Variables
 
@@ -88,9 +88,9 @@ logger - Get log file
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/Jinn_007)
+Contact Me On [Telegram](https://t.me/Raja_sekar_811)
 
-[Update Channel](https://t.me/ErrorXbotz)
+[Update Channel](https://t.me/Royal_moviz)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).

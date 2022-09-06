@@ -88,7 +88,7 @@ logger - Get log file
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/Jinn_007)
+Contact Me On [Telegram](https://t.me/Raja_sekar_811)
 
 [Update Channel](https://t.me/ErrorXbotz)
 
